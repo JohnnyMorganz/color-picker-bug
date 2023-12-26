@@ -10,7 +10,7 @@
 		"Other"
 	],
 	"activationEvents": [
-        "onCommand:color-picker-bug.helloWorld"
+        "onLanguage:plaintext"
 	],
 	"main": "./out/extension.js",
 	"contributes": {
